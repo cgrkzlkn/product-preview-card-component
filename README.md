@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []()
-- Live Site URL: []()
+- Live Site URL: [Product Preview Card](https://cgrkzlkn.github.io/product-preview-card-component/)
 
 ## My process
 
