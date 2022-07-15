@@ -110,7 +110,9 @@ body {
     cursor: pointer;
 }
 
-.card .text-container button:active {
+.card .text-container button:active,
+.card .text-container button:hover,
+.card .text-container button:focus {
     background-color: var(--darkCyanActive);
 }
 
