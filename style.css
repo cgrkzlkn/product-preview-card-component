@@ -29,6 +29,7 @@ body {
     background-color: white;
     width: 350px;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 .card .img-container {
@@ -39,8 +40,6 @@ body {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
 }
 
 .card .text-container {
@@ -138,9 +137,6 @@ footer .attribution a {
     }
 
     .card .img-container img {
-        border-top-left-radius: 10px;
-        border-bottom-left-radius: 10px;
-        border-top-right-radius: 0;
         object-fit: cover;
     }
 
