@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-using-css-grid-and-mobilefirst-workflow-4aoWiSotDC)
 - Live Site URL: [Product Preview Card](https://cgrkzlkn.github.io/product-preview-card-component/)
 
 ## My process
