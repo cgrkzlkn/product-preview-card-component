@@ -23,11 +23,13 @@ body {
     display: grid;
     align-items: end;
     justify-items: center;
+    padding: 2rem;
 }
 
 .card {
     background-color: white;
-    width: 350px;
+    width: 100%;
+    max-width: 700px;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -116,24 +118,19 @@ body {
 }
 
 footer {
-    padding: 1rem 0;
-}
-
-footer .attribution {
     font-size: .8rem;
     text-align: center;
 }
 
-footer .attribution a {
+footer a {
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width:576px) {
     .card {
         display: grid;
         grid-auto-flow: column;
         grid-auto-columns: minmax(0, 1fr);
-        width: 700px;
     }
 
     .card .img-container img {
