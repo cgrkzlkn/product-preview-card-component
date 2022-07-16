@@ -40,6 +40,7 @@ Users should be able to:
 - Semantic HTML5 Markup
 - CSS Grid
 - Mobile-First Workflow
+- CSS Custom Properties
 
 ### What I learned
 
